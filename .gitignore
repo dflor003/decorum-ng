@@ -1,0 +1,14 @@
+# Webstorm project
+.idea
+
+# 3rd party libs
+lib
+node_modules
+
+# TypeScript typings
+typings/**/*.d.ts
+!typings/**/tsd.d.ts
+
+# Compiled JS files
+/src/**/*.js
+/src/**/*.js.map

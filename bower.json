@@ -1,0 +1,50 @@
+{
+  "name": "decorum-ng",
+  "version": "0.2.0-alpha",
+  "homepage": "https://github.com/dflor003/decorum-ng",
+  "authors": [
+    "Danil Flores <dflor003@gmail.com>"
+  ],
+  "description": "AngularJS directives for use with the Decorum decorator validation library",
+  "main": "/dist/decorum-ng.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "decorum",
+    "decorumjs",
+    "validation",
+    "validations",
+    "validator",
+    "decorator",
+    "decorators",
+    "es7",
+    "es2016",
+    "typescript",
+    "ts",
+    "library",
+    "babel",
+    "angular",
+    "angularjs",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "typings",
+    "lib",
+    ".gitignore",
+    "/*.js",
+    "/*.json",
+    "/*.yml"
+  ],
+  "dependencies": {
+    "decorum": "~0.2.0-alpha"
+  }
+}
