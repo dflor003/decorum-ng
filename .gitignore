@@ -12,3 +12,5 @@ typings/**/*.d.ts
 # Compiled JS files
 /src/**/*.js
 /src/**/*.js.map
+/samples/app/**/*.js
+/samples/app/**/*.js.map

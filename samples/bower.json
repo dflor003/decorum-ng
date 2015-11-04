@@ -1,0 +1,21 @@
+{
+  "name": "decorum-ng-sample",
+  "homepage": "https://github.com/dflor003/decorum-ng",
+  "authors": [
+    "Danil Flores <dflor003@gmail.com>"
+  ],
+  "description": "Decorum sample app",
+  "moduleType": [],
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/*"
+  ],
+  "private": true,
+  "dependencies": {
+    "decorum": "*",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}

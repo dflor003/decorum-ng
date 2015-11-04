@@ -89,7 +89,7 @@ gulp.task('publish-test-coverage', ['test-coverage'], () => {
 });
 
 gulp.task('publish', () => {
-    var bundledFileName = 'decorum.js',
+    var bundledFileName = 'decorum-ng.js',
         sourceMapFileName = './dist/' + bundledFileName + '.map',
         globalNamespace = 'decorum';
 

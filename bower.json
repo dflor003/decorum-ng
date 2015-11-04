@@ -35,6 +35,8 @@
   "ignore": [
     "node_modules",
     "bower_components",
+    "samples",
+    "build",
     "test",
     "tests",
     "typings",
